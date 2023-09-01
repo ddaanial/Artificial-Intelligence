@@ -10,7 +10,17 @@ Adversarial Search
 
 Genetic Algorithm
 
-  In this problem, we will tackle the knapspack problem with a genetic algorithm. You can find more detail about this problem [here](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/).
+
+  In this code, we will tackle the knapspack problem with a genetic algorithm. You can find more detail about this problem [here](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/).
+
+
+N-gram language Models
+
+In this code we will be implementing N-gram language models. N-gram language models assume that each word $wi$
+depends only on the N−1 preceding words. we will be using these language models for:
+*   calculating the probability of sentences
+*   predicting next word of a query
+
 
 
 
