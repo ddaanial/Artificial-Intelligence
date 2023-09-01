@@ -22,5 +22,8 @@ depends only on the N−1 preceding words. we will be using these language model
 *   predicting next word of a query
 
 
+Naive Bayes Classifier
 
+
+In this code, we are going to learn about the Naive Bayes algorithm, including how it works and how to implement it from scratch on a given dataset.
 
